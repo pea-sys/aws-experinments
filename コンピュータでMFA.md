@@ -1,14 +1,14 @@
 # コンピュータで MFA
 
-```
-[MFA(Multi Factor Authentication)]
-多要素認証を意味します。ユーザー名とパスワードだけだと、AWSアカウントの乗っ取り対策として心許ないので、MFAを設定することで、認証要素を増やすことが推奨されています。MFAを利用するには、認証コードを発行するデバイスが必要になります。
+[MFA(Multi Factor Authentication)]  
+多要素認証を意味します。ユーザー名とパスワードだけだと、AWSアカウントの乗っ取り対策として心許ないので、MFAを設定することで、  
+認証要素を増やすことが推奨されています。MFAを利用するには、認証コードを発行するデバイスが必要になります。
 
 
-[実行環境]
+[実行環境]  
 Chrome   バージョン: 100.0.4896.127（Official Build） （64 ビット）
-```
 
+[手順]  
 1. コンソールホーム画面の検索窓に「IAM」と入力し、 IAM サービスを選択します。
    ![1](https://user-images.githubusercontent.com/49807271/163696657-13716051-eb75-41b8-ad24-7b64a9ca2e38.jpg)
 
@@ -22,7 +22,7 @@ Chrome   バージョン: 100.0.4896.127（Official Build） （64 ビット）
 4. MFA デバイスの選択ダイアログが表示されます。仮想 MFA デバイスを選択します。
    ![5](https://user-images.githubusercontent.com/49807271/163697268-acb0b079-048a-4dab-a3ed-5e9098ee9035.jpg)
 
-5. シークレットキーの表示をクリック
+5. シークレットキーの表示をクリック  
    ![6](https://user-images.githubusercontent.com/49807271/163697317-8ac23614-2eec-4483-bd49-232c3f7eb95e.jpg)
 
 6. 認証アプリをインストールします。色々種類があるので、信頼できるアプリを選択しましょう。自分は以下をダウンロードしました。(https://chrome.google.com/webstore/detail/gauth-authenticator/ilgcnhelpchnceeipipijaljkblbcobl/related)
