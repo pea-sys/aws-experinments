@@ -19,6 +19,8 @@ C:\Users\user>ver
 Microsoft Windows [Version 10.0.19043.1645]
 ```
 
-[TODO]  
-AWS Budgets の設定を行う  
-※今月は rds に誤って課金してしまったため、少しお休み
+[TODO]
+
+- AWS Budgets の設定を行う  
+  ※今月は rds に誤って課金してしまったため、少しお休み
+- https://tomomano.github.io/learn-aws-by-coding/
