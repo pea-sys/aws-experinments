@@ -1,13 +1,13 @@
 # aws_experinments
 
-AmazonWebService の学習用リポジトリ
+[AmazonWebService](https://aws.amazon.com/jp/) の学習用リポジトリ
 
-https://aws.amazon.com/jp/
 
 [学習手順]  
-最初に以下の無料コースを受講し、AWS の代表的なサービスの基本的概念を理解する。  
-(1 週間程度で履修可能)  
-https://explore.skillbuilder.aws/learn/course/1875/play/27620/aws-cloud-practitioner-essentials-japanese-ri-ben-yu-shi-xie-ban
+- [x] 最初に以下の無料コースを受講し、AWS の代表的なサービスの基本的概念を理解する  
+※[リンク](https://explore.skillbuilder.aws/learn/course/1875/play/27620/aws-cloud-practitioner-essentials-japanese-ri-ben-yu-shi-xie-ban)
+- [ ] AWS サービス別資料に目を通す  
+※[リンク](https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-service-cut/)
 
 [Environment]
 
