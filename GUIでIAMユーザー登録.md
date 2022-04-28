@@ -1,5 +1,16 @@
 # GUI で IAM ユーザー登録
 
+■ 次の IAM ユーザーを登録します
+
+---
+
+- 管理者権限を保有する IAM ユーザー
+- S3 の一覧表示可能なユーザー
+
+---
+
+## ■ 手順
+
 1. AWS マネジメントコンソールから IAM サービスを選択します。
    ![1](https://user-images.githubusercontent.com/49807271/165300855-fd56be17-b9fe-477c-a174-0235875b1903.jpg)
 
@@ -29,3 +40,23 @@
 10. IAM ユーザーでログイン出来ることを確認します
 
     ![9](https://user-images.githubusercontent.com/49807271/165315076-6281bee7-81ea-4f83-8ad7-0f03de9418ab.jpg)
+
+11. 同じ手順で IAM ユーザーをもう一人登録します  
+    ただし、ポリシーは「AmazonS3ReadOnlyAccess」を選択します
+
+![12](https://user-images.githubusercontent.com/49807271/165532310-5044a1a2-9868-4e83-a66a-b99682046cb0.jpg)
+
+12. s3 のダッシュボードにアクセスします
+
+## ![13](https://user-images.githubusercontent.com/49807271/165533361-92522583-dfe2-4233-98ec-1b1f5958199b.jpg)
+
+13. バケットの作成をクリックし、バケットを作成します
+
+    ![15](https://user-images.githubusercontent.com/49807271/165638276-4e059323-24db-4f3a-8533-1fafd77ae427.jpg)
+
+14. 「AmazonS3ReadOnlyAccess」の IAM ユーザーでログインします
+
+15. s3 の作成を試みます。  
+    書き込み権限がないので次のようなエラーが表示されます
+
+![16](https://user-images.githubusercontent.com/49807271/165749784-48b2bc94-0c62-4bd4-a27d-b4e098d5eacf.jpg)
