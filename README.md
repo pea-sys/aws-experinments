@@ -23,8 +23,7 @@ https://aws.amazon.com/jp/
      - [x] [AWS Hands-on for Beginners
       Network 編#2 Amazon VPC 間および Amazon VPC とオンプレミスのプライベートネットワーク接続](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Network2-updated-202009-reg-event-CP_873.html)  
        (PeeringConnection / VPN Gateway / Site-to-Site VPN / Cloud9)  
-     - [x] AWS Hands-on for Beginners  
-      [Network 編#3 クライアント VPN をつかって、リモート接続環境を構築しよう](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Network-3-2022-confirmation-312.html)  
+     - [x] [AWS Hands-on for Beginners  Network 編#3 クライアント VPN をつかって、リモート接続環境を構築しよう](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Network-3-2022-confirmation-312.html)  
        (Client VPN / ec2 / acm / cloud watch / cloud shell)
 
 [Environment]
