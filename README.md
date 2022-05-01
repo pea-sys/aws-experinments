@@ -27,7 +27,7 @@ https://aws.amazon.com/jp/
          (Client VPN / ec2 / acm / cloud watch / cloud shell)
   - [x] [AWS Hands-on for Beginners〜 スケーラブルウェブサイト構築編 〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Scalable_Contents.html)  
          (VPC / ec2 / RDS /ELB)
-  - [x][aws hands-on for beginners 〜 serverless 編 〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Serverless-2019_Contents.html)  
+  - [x] [aws hands-on for beginners 〜 serverless 編 〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Serverless-2019_Contents.html)  
     (API Gateway / Lamda / DynamoDB / Tarnslate)
 
 [Environment]
