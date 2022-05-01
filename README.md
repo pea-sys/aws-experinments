@@ -29,7 +29,9 @@ https://aws.amazon.com/jp/
          (VPC / ec2 / RDS /ELB)
   - [x] [aws hands-on for beginners 〜 serverless 編 〜](https://pages.awscloud.com/event_JAPAN_Hands-on-for-Beginners-Serverless-2019_Contents.html)  
     (API Gateway / Lamda / DynamoDB / Tarnslate)
-
+  - [x] [aws hands-on for beginners 〜 serverless #2 〜 aws sam を使ってテンプレートからサーバーレスな環境を構築する](https://pages.awscloud.com/event_JAPAN_Ondemand_Hands-on-for-Beginners-Serverless-2_CP.html)  
+     (SAM / Cloud Formation / API Gateway / Lamda / DynamoDB / Translate / Cloud9)  
+     
 [Environment]
 
 ```
