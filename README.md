@@ -31,6 +31,8 @@ https://aws.amazon.com/jp/
     (API Gateway / Lamda / DynamoDB / Tarnslate)
   - [x] [aws hands-on for beginners 〜 serverless #2 〜 aws sam を使ってテンプレートからサーバーレスな環境を構築する](https://pages.awscloud.com/event_JAPAN_Ondemand_Hands-on-for-Beginners-Serverless-2_CP.html)  
      (SAM / Cloud Formation / API Gateway / Lamda / DynamoDB / Translate / Cloud9)  
+  - [x] [AWS Hands-on for Beginners -Serverless #3 AWS Lambda と AWS AI Services を組み合わせて作る音声文字起こし & 感情分析パイプライン](https://pages.awscloud.com/event_JAPAN_Ondemand_Hands-on-for-Beginners-Serverless-3_CP.html)  
+     (S3 / Lambda / Transcribe / Comprehend / Polly)  
      
 [Environment]
 
