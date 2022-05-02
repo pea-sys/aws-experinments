@@ -33,6 +33,8 @@ https://aws.amazon.com/jp/
      (SAM / Cloud Formation / API Gateway / Lamda / DynamoDB / Translate / Cloud9)  
   - [x] [AWS Hands-on for Beginners -Serverless #3 AWS Lambda と AWS AI Services を組み合わせて作る音声文字起こし & 感情分析パイプライン](https://pages.awscloud.com/event_JAPAN_Ondemand_Hands-on-for-Beginners-Serverless-3_CP.html)  
      (S3 / Lambda / Transcribe / Comprehend / Polly)  
+  - [x] [AWS Hands-on for Beginners AWS Step Functions 入門 - ビジュアルツールを使ってローコードにワークフローを作成する](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-StepFunctions-2022-confirmation-556.html)  
+     (S3 / Step Functions / Translate / DynamoDB / Polly)
      
 [Environment]
 
