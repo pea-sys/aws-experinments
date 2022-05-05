@@ -37,6 +37,8 @@ https://aws.amazon.com/jp/
      (S3 / Step Functions / Translate / DynamoDB / Polly)
   - [x] [AWS Hands-on for Beginners Amazon CloudFrontおよびAWS WAFを用いて エッジサービスの活用方法を学ぼう](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-CF_WAF-2021-confirmation-343.html)  
      (CloudFront / WAF / S3 / Lambda / Translate / API Gateway) 
+  - [x] [AWS Hands-on for Beginners AWS Amplify を用いた Web サイトの構築方法を学ぼう](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-amplify-2022-confirmation-774.html)  
+     (Amplify / S3 / Cloud9)
      
 [Environment]
 
