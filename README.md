@@ -44,7 +44,9 @@ https://aws.amazon.com/jp/
   - [x] [AWS Hands-on for Beginners AWS Systems Managerを使ったサーバ管理はじめの一歩編](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-systems-manager-2022-confirmation-493.html)  
      (AWS Systems Manager)　
   - [x] [AWS Hands-on for Beginners AWS 環境のコード管理 AWS CloudFormationで Web システムを構築する](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2020-reg-event-CP_707.html)  
-     (CloudFormation)
+     (CloudFormation)  
+  - [x] [AWS Hands-on for Beginners AWS Managed AI/ML サービス はじめの一歩](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-AIML-2021-confirmation.html)  
+     (Amazon Personalize / Amazon Forecast / Amazon Transcribe / Amazon Comprehend / Amazon Rekognition)
      
 [Environment]
 
