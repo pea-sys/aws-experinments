@@ -40,7 +40,9 @@ https://aws.amazon.com/jp/
   - [x] [AWS Hands-on for Beginners AWS Amplify を用いた Web サイトの構築方法を学ぼう](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-amplify-2022-confirmation-774.html)  
      (Amplify / S3 / Cloud9)　　
   - [x] [AWS Hands-on for Beginners 監視編 サーバーのモニタリングの基本を学ぼう](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-monitoring-2020-reg-event-CP_707.html)  
-     (CloudWatch)
+     (CloudWatch)　　
+  - [x] [AWS Hands-on for Beginners AWS Systems Managerを使ったサーバ管理はじめの一歩編](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-systems-manager-2022-confirmation-493.html)  
+     (AWS Systems Manager)
      
 [Environment]
 
