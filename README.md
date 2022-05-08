@@ -46,7 +46,10 @@ https://aws.amazon.com/jp/
   - [x] [AWS Hands-on for Beginners AWS 環境のコード管理 AWS CloudFormationで Web システムを構築する](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cfn-2020-reg-event-CP_707.html)  
      (CloudFormation)  
   - [x] [AWS Hands-on for Beginners AWS Managed AI/ML サービス はじめの一歩](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-AIML-2021-confirmation.html)  
-     (Amazon Personalize / Amazon Forecast / Amazon Transcribe / Amazon Comprehend / Amazon Rekognition)
+     (Amazon Personalize / Amazon Forecast / Amazon Transcribe / Amazon Comprehend / Amazon Rekognition)  
+  - [x] [AWS Hands-on for Beginners
+手を動かしなら学ぶ Analytics サービス入門](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Analytics-2021-confirmation-555.html)  
+     (Amazon RedShift / Amazon QuickSight)
      
 [Environment]
 
