@@ -52,6 +52,8 @@ https://aws.amazon.com/jp/
      (Amazon RedShift / Amazon QuickSight)
   - [x] [AWS Hands-on for Beginners - Amazon EC2 Auto Scaling スケーリング基礎編](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-Auto_Scaling-2021-confirmation-998.html)  
      (Cloud Formation / ec2(Auto Scaling))
+  - [x] [AWS Hands-on for Beginners AWS 上で静的な Web サイトを公開しよう！](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-StaticWebsiteHosting-2020-reg-event-CP_1216.html)  
+     (EC2 / Cloud9 / CloudFront / Route 53 / ACM)
      
 [Environment]
 
