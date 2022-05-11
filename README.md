@@ -56,7 +56,9 @@ https://aws.amazon.com/jp/
      (EC2 / Cloud9 / CloudFront / Route 53 / ACM)  
   - [x] [AWS Hands-on for Beginners
 CloudEndure Migrationを使ってオンプレミスサーバーをAmazon EC2に移行する](https://pages.awscloud.com/JAPAN_FIELD_WEBINAR_Hands-on-for-Beginners-CloudEndureMigration_2020_7010z000001M1HA_Hands-on-for-Beginners-network2-2020.html)  
-     (Cloud Endure)
+     (Cloud Endure)  
+  - [x] [AWS Hands-on for Beginners AWS Code サービス群を活用して、CI/CD のための構成を構築しよう！](https://pages.awscloud.com/JAPAN-event-OE-Hands-on-for-Beginners-cicd-2020-reg-event-CP_031.html)  
+     (CodeCommit / CodeBuild / CodeDeploy / CodePipeline)
      
 [Environment]
 
