@@ -10,7 +10,7 @@ https://aws.amazon.com/jp/
        ※[リンク](https://explore.skillbuilder.aws/learn/course/1875/play/27620/aws-cloud-practitioner-essentials-japanese-ri-ben-yu-shi-xie-ban)
 - [ ] AWS サービス別資料に目を通す  
        ※[リンク](https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-service-cut/)
-- [ ] AWS ハンズオン資料を実施する
+- [x] AWS ハンズオン資料を実施する
       ※[リンク](https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-hands-on/)
   - [x] [ハンズオンはじめの一歩: AWS アカウントの作り方 & IAM 基本のキ](https://pages.awscloud.com/event_JAPAN_Ondemand_Hands-on-for-Beginners-1st-Step_LP.html?trk=aws_introduction_page)  
          (IAM)
