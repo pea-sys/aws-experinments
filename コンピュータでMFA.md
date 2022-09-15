@@ -25,7 +25,9 @@ Chrome   バージョン: 100.0.4896.127（Official Build） （64 ビット）
 5. シークレットキーの表示をクリック  
    ![6](https://user-images.githubusercontent.com/49807271/163697317-8ac23614-2eec-4483-bd49-232c3f7eb95e.jpg)
 
-6. 認証アプリをインストールします。色々種類があるので、信頼できるアプリを選択しましょう。自分は以下をダウンロードしました。(https://chrome.google.com/webstore/detail/gauth-authenticator/ilgcnhelpchnceeipipijaljkblbcobl/related)
+6. 認証アプリをインストールします。色々種類があるので、信頼できるアプリを選択しましょう。
+   ~~自分は以下をダウンロードしました。(https://chrome.google.com/webstore/detail/gauth-authenticator/ilgcnhelpchnceeipipijaljkblbcobl/related)~~  
+gauthは現在、ブラウザローカルストレージを使用しているのでセキュリティ上の問題を抱えていると言えます。別のアプリを選択しましょう。
 
 7. ブラウザの右上からアドインを選択します。
 
